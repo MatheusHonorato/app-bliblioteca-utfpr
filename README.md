@@ -1,6 +1,14 @@
 # app-biblioteca-utfpr
 App desenvolvido para a disciplina Ambiente de Ensino e Aprendizagem a Distância - MBA E.S. UTFPR 
 
+## Equipe
+
+- Matheus Felipe Paixo Honorato, 
+- Karolina Celeste Rolim Duarte, 
+- Lucas Pedro Dos Santos, 
+- Thais Silva Pereira, 
+- Bruno da Silva Ecks
+
 ## Qual stack necessária para rodar o projeto?
 
 - PHP 7
