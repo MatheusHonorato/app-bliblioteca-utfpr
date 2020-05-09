@@ -1,6 +1,8 @@
 # app-biblioteca-utfpr
 App desenvolvido para a disciplina Ambiente de Ensino e Aprendizagem a Distância - MBA E.S. UTFPR 
 
+<img src="https://raw.githubusercontent.com/MatheusHonorato/app-bliblioteca-utfpr/master/screenshot.png?token=AEV3GXF4VT6ZWJ7ATDTAXVK6W5BUC" width="400">
+
 ## Equipe
 
 - Matheus Felipe Paixo Honorato, 
