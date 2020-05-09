@@ -15,6 +15,8 @@ App desenvolvido para a disciplina Ambiente de Ensino e Aprendizagem a Distânci
 - Mysql
 - Apache
 - Composer
+- Node
+- NPM
 - Git
 
 ## Como rodar o projeto na sua máquina
