@@ -3,13 +3,20 @@ App desenvolvido para a disciplina Ambiente de Ensino e Aprendizagem a Distânci
 
 <img src="https://raw.githubusercontent.com/MatheusHonorato/app-bliblioteca-utfpr/master/screenshot.png?token=AEV3GXF4VT6ZWJ7ATDTAXVK6W5BUC" width="100%">
 
+## Funcionalidades
+
+- Home da aplicação;
+- Cadastrar usuário;
+- Cadastrar Obras;
+- Realizar empréstimos de obras.
+
 ## Equipe
 
-- Matheus Felipe Paixo Honorato, 
-- Karolina Celeste Rolim Duarte, 
-- Lucas Pedro Dos Santos, 
-- Thais Silva Pereira, 
-- Bruno da Silva Ecks
+- Matheus Felipe Paixo Honorato: Desenvolvedor - aplicação (package AP); 
+- Karolina Celeste Rolim Duarte: Usuário do sistema; 
+- Lucas Pedro Dos Santos: Desenvolvedor/projetista - Interface Gráfica (package IG); 
+- Thais Silva Pereira: Desenvolvedor/projetista - banco de dados (package BD); 
+- Bruno da Silva Ecks: Integrador.
 
 ## Qual a stack necessária para rodar o projeto?
 
