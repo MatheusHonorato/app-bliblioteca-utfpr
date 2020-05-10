@@ -11,7 +11,7 @@ App desenvolvido para a disciplina Ambiente de Ensino e Aprendizagem a Distânci
 - Thais Silva Pereira, 
 - Bruno da Silva Ecks
 
-## Qual stack necessária para rodar o projeto?
+## Qual a stack necessária para rodar o projeto?
 
 - PHP 7
 - Mysql
